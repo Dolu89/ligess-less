@@ -1,0 +1,12 @@
+{
+  "name": "ligess-less",
+  "version": "1.0.0",
+  "author": "Dolu",
+  "license": "MIT",
+  "description": "Serverless Lightning address using Una-connect",
+  "scripts": {
+  },
+  "dependencies": {
+    "una-connect-js": "^0.0.1-beta"
+  }
+}
