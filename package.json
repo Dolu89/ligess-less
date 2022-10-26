@@ -4,9 +4,9 @@
   "author": "Dolu",
   "license": "MIT",
   "description": "Serverless Lightning address using Una-connect",
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {
-    "una-connect-js": "^0.0.1-beta"
+    "node-fetch": "^3.2.10",
+    "una-connect-js": "^0.0.2-beta"
   }
 }
