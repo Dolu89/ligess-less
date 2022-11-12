@@ -18,3 +18,5 @@ Serverless LN address using Una-Connect
   - NOSTR_PRIVATE_KEY
   - NOSTR_REMOTE_PUBKEY_KEY
   - LNPROXY_URL
+
+*TODO: set up una-connect https://github.com/blc-org/una-connect*
